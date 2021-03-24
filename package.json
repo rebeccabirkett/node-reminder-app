@@ -1,0 +1,23 @@
+{
+  "name": "node-reminder",
+  "version": "1.0.0",
+  "description": "A simple reminder application using Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebeccabirkett/node-reminder-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebeccabirkett/node-reminder-app/issues"
+  },
+  "homepage": "https://github.com/rebeccabirkett/node-reminder-app#readme",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
